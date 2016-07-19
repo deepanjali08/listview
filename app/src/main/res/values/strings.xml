@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tabview</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_button">send</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="Back_to1">back to activity 1</string>
+</resources>
